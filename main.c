@@ -5,7 +5,7 @@
 
 int main(int argc, char **argv)
 {
-    char first[255], last[255];
+    char first[25, last[255];
 
     askname(first, last);
 
